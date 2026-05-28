@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá, eu sou o Luigi Macarini! 👋
+### 🚀 Desenvolvedor de Software Front-End | Thomson Reuters
 
-<!--
-**LuigiMacarini/LuigiMacarini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎯 Focado em React, React Native e experiências mobile/web de qualidade
 
-Here are some ideas to get you started:
+### 📍 Santa Catarina, Brasil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias & Ferramentas
+<!--JS React--> <!--Java-->
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,java,kotlin,nodejs,postman,git,css,figma,vscode&theme=dark)
+
+### 📫 Contato
+LinkedIn: https://www.linkedin.com/in/luigi-macarini/
+<!-->
+Telefone: +55 (48) 9806-2270
