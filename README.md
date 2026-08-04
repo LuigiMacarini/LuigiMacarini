@@ -1,5 +1,5 @@
 ## Olá, eu sou o Luigi Macarini! 
-### Desenvolvedor Full-Stack | Thomson Reuters
+### Desenvolvedor Full Stack | Thomson Reuters
 
 ### Focado em React, React Native e experiências mobile/web de qualidade
 
