@@ -1,5 +1,5 @@
 ## Olá, eu sou o Luigi Macarini! 👋
-### 🚀 Desenvolvedor de Software Front-End | Thomson Reuters
+### 🚀 Desenvolvedor Full-Stack | Thomson Reuters
 
 ### 🎯 Focado em React, React Native e experiências mobile/web de qualidade
 
